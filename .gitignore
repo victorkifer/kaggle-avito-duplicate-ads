@@ -1,0 +1,23 @@
+data/
+
+# VirtualEnv
+
+bin/
+include/
+share/
+local/
+man/
+lib/
+pip-selfcheck.json
+
+# Python
+
+*.pyc
+
+# IPython
+
+.ipynb_checkpoints/
+
+# Keras
+
+keras/
