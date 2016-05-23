@@ -1,4 +1,7 @@
 data/
+submission.csv
+model/
+processed_data/
 
 # VirtualEnv
 
