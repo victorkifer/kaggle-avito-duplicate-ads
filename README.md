@@ -1,6 +1,7 @@
 # Competition
 
 Link: https://www.kaggle.com/c/avito-duplicate-ads-detection
+
 Result: 0.85622
 
 # Prepare Environment
